@@ -8,7 +8,8 @@ http://localhost:5001/api
 
 ## Authentication
 
-Use postman and use your JWT token which will be created when an admin registers in postman. add Authorization in the header section and enter the token as explained below:
+Use postman and use your JWT token which will be created when an admin registers in postman.
+Add Authorization in the header section and enter the token as explained below:
 
 ```
 Authorization: Bearer <your-jwt-token>
