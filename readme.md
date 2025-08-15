@@ -3,7 +3,7 @@
 ## Base URL
 
 ```
-http://localhost:5000/api
+http://localhost:5001/api
 ```
 
 ## Authentication
@@ -26,7 +26,7 @@ Authorization: Bearer <your-jwt-token>
 
 ```json
 {
-  "email": "admin@example.com",
+  "email": "dipesh.me.23@nitj.ac.in",
   "password": "password123",
   "role": "admin"
 }
