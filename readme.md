@@ -85,7 +85,7 @@ Authorization: Bearer <your-jwt-token>
     "unitsAvailable": 45,
     "donorCount": 45,
     "lowStockThreshold": 10,
-    "lastUpdated": "2023-06-09T00:00:00.000Z"
+    "lastUpdated": "2025-08-09T00:00:00.000Z"
   }
 ]
 ```
